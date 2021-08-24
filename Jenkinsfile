@@ -1,7 +1,7 @@
 node {
 
 stage('SCM'){
- git 'https://github.com/OussamaINTI/testJenkinsSeptembre'
+ git 'https://github.com/OussamaINTI/testJenkinsSonar'
 }
 
 stage('Compile'){
